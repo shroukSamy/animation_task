@@ -1,0 +1,143 @@
+.contant{
+    background-color: rgb(5, 88, 109);
+    height: 180vh;
+    
+}
+.div1{
+    width: 200px;
+    height: 150px;
+    background-image: url(../images/image.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    position: absolute;
+    animation-name: changes;
+    animation-duration: 10s;
+}
+@keyframes changes{
+    0%{
+        left: 0;
+    }
+    50%{
+        left: 1330px;
+    }
+    100%{
+        left: 0;
+    }
+}
+.div2{
+    width: 200px;
+    height: 150px;
+    background-image: url(../images/image.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    position: absolute;
+    animation-name: changes;
+    animation-duration: 10s;
+    animation-delay: 10s;
+    margin-top: 180px;
+
+    
+}
+@keyframes changes{
+    0%{
+        left: 0;
+    }
+    50%{
+        left: 1330px;
+    }
+    100%{
+        left: 0;
+    }
+}
+.div3{
+    width: 200px;
+    height: 150px;
+    background-image: url(../images/image.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    position: absolute;
+    animation-name: changes;
+    animation-duration: 10s;
+    animation-delay: 20s;
+    margin-top: 360px;
+}
+@keyframes changes{
+    0%{
+        left: 0;
+    }
+    50%{
+        left: 1330px;
+    }
+    100%{
+        left: 0;
+    }
+}
+.div4{
+    width: 200px;
+    height: 150px;
+    background-image: url(../images/image.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    position: absolute;
+    animation-name: changes;
+    animation-duration: 10s;
+    animation-delay: 30s;
+    margin-top: 540px;
+}
+@keyframes changes{
+    0%{
+        left: 0;
+    }
+    50%{
+        left: 1330px;
+    }
+    100%{
+        left: 0;
+    }
+}
+.div5{
+    width: 200px;
+    height: 150px;
+    background-image: url(../images/image.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    position: absolute;
+    animation-name: changes;
+    animation-duration: 10s;
+    animation-delay: 40s;
+    margin-top: 720px;
+}
+@keyframes changes{
+    0%{
+        left: 0;
+    }
+    50%{
+        left: 1330px;
+    }
+    100%{
+        left: 0;
+    }
+}
+.div6{
+    width: 200px;
+    height: 150px;
+    background-image: url(../images/image.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    position: absolute;
+    animation-name: changes;
+    animation-duration: 10s;
+    animation-delay: 50s;
+    margin-top: 900px;
+}
+@keyframes changes{
+    0%{
+        left: 0;
+    }
+    50%{
+        left: 1330px;
+    }
+    100%{
+        left: 0;
+    }
+}
